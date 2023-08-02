@@ -1,5 +1,5 @@
 # BeautyBliss-Online Cosmetic Shopping Website
-BeautyBliss is an online cosmetic shopping website developed as a project for the DBMS course. The purpose of this repository is to provide an overview of the project, its functionalities, and instructions on how to set it up locally.
+BeautyBliss is an online cosmetic shopping website developed with the intention of trying to build a fully functional website with an integrated database. The purpose of this repository is to provide an overview of the project, its functionalities, and instructions on how to set it up locally.
 
 ## Project Overview
 BeautyBliss is an e-commerce website designed to provide a seamless shopping experience for cosmetic enthusiasts. It allows users to browse a wide range of cosmetic products, choose variants, and easily place orders. The project also includes an administrative panel for managing inventory, brands, sales reports, and order statuses.
